@@ -4,9 +4,9 @@ I'm a recent Mathematics PhD with a passion for learning new things and a commit
 
 
 ---
-- ⚙️ I’m currently working on ... Coding in Python
+- ⚙️ I’m currently working on ... Coding in Python.
 - ✍️ I’m currently studying ... inferential statistics and ML.
-- 📖 I’m currently reading ... Dante's *The Divine Comedy*
+- 📖 I’m currently reading ... Dante's *The Divine Comedy*.
 
 <!---
 DevinGent/DevinGent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
