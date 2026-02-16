@@ -1,12 +1,11 @@
 # 👋 Hi there!
 
-I'm a Mathematics PhD with an interest in data analysis, a passion for learning new things, and a commitment to challenging myself. 
+I'm a Mathematics PhD and data analyst with a passion for learning new things, and a commitment to challenging myself. 
 
 
 ---
-- ⚙️ I’m currently working on ... small business data.
 - ✍️ I’m currently studying ... databases.
-- 📖 I’m currently reading ... *Our Mutual Friend*.
+- 📖 I’m currently reading ... *Vanity Fair* (the novel, not the magazine).
 
 <!---
 DevinGent/DevinGent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
